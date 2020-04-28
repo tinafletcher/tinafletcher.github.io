@@ -3,8 +3,7 @@ layout: post
 title: The power to react positively
 ---
 
-Don't make yourself feel bad when you have the power to react positively and feel good.
----
+
 One night last week, I was leaving work. It was dark and rainy, and because the temperature was hovering around zero, it was also icy. I was waiting to cross the street to get to my parking lot.
 
 The light changed. After checking that the intersection was clear, I started making my way across the street. It started raining harder, and the ground was slippery. I put up my hood and kept my gaze downwards, looking for icy patches.
@@ -31,4 +30,4 @@ This applies to so many things - things that happen at work, things that happen 
 
 On my way home after writing this post, someone left me a nice piece of evidence that I'm not crazy to believe this. An ice patch had formed next to my car, and they wrote "Watch your step" in the snow on my window :)
 
-![A red vehicle with snow on its windshield](C:\Users\tfletcher\Documents\GitHub\tinafletcher.github.io\images\Jan29-carmsg.jpg)
+![A red vehicle with snow on its windshield](../images/Jan29-carmsg.jpg)
