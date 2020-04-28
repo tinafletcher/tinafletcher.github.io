@@ -3,7 +3,7 @@ layout: post
 title: The power to react positively
 ---
 
-I hope it will be awesome.
+Don't make yourself feel bad when you have the power to react positively and feel good.
 ---
 One night last week, I was leaving work. It was dark and rainy, and because the temperature was hovering around zero, it was also icy. I was waiting to cross the street to get to my parking lot.
 
@@ -30,3 +30,5 @@ Even if I'm wrong, and this driver was being reckless and irresponsible and didn
 This applies to so many things - things that happen at work, things that happen at home, things that happen in your town, things that happen across the world, things that you wish you'd done differently, things that you didn't have control over anyway. I choose to believe that the world is (for the most part) full of good people with good intentions, and it makes me a happier person because I don't feel personally attacked by the things that are happening around me.
 
 On my way home after writing this post, someone left me a nice piece of evidence that I'm not crazy to believe this. An ice patch had formed next to my car, and they wrote "Watch your step" in the snow on my window :)
+
+![A red vehicle with snow on its windshield](C:\Users\tfletcher\Documents\GitHub\tinafletcher.github.io\images\Jan29-carmsg.jpg)
