@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+President of [KWSQA](https://www.kwsqa.org), Software Development Manager at [D2L](https://www.d2l.com), occasional conference speaker.
