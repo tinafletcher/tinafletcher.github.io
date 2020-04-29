@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things I learned while writing an article about things I learned
+title: Things learned while writing about things learned
 ---
 
 
