@@ -31,4 +31,5 @@ Furthermore, it's not only software or tech where this concept of incorporating 
 I'm not sure yet what I'm planning to do in this space (if anything), but there sure are a lot of interesting things to read and think about.
 
 A Challenge
+---
 What problem are you currently trying to solve that probably already has a solution?

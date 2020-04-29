@@ -24,7 +24,7 @@ I'm not a bad driver, and I'm not a bad person. But sometimes, I make mistakes, 
 
 Even if I'm wrong, and this driver was being reckless and irresponsible and didn't feel bad at all, there is still no reason why I should let them ruin my evening (or even the next 5 minutes) by getting upset about it. Here's a thing I read recently that sums up what I'm trying to say:
 
-"How you react is the only thing you can control. So, when bad stuff happens, you're in control. You determine the reaction which will determine how you feel. **Don't make yourself feel bad when you have the power to react positively and feel good.**" (from [Tim Denning's summary](https://medium.com/personal-growth/after-weeks-of-reading-tribe-of-mentors-heres-the-quick-lessons-you-can-learn-dde470325fe5) of the book "Tribe of Mentors")
+>"How you react is the only thing you can control. So, when bad stuff happens, you're in control. You determine the reaction which will determine how you feel. **Don't make yourself feel bad when you have the power to react positively and feel good.**" (from [Tim Denning's summary](https://medium.com/personal-growth/after-weeks-of-reading-tribe-of-mentors-heres-the-quick-lessons-you-can-learn-dde470325fe5) of the book "Tribe of Mentors")
 
 This applies to so many things - things that happen at work, things that happen at home, things that happen in your town, things that happen across the world, things that you wish you'd done differently, things that you didn't have control over anyway. I choose to believe that the world is (for the most part) full of good people with good intentions, and it makes me a happier person because I don't feel personally attacked by the things that are happening around me.
 
