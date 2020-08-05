@@ -17,7 +17,7 @@ What I'm good at
 + Helping to improve and maintain cohesion within teams, groups, and broader networks of people
 + Helping people to feel understood, and to recognize and celebrate their accomplishments
 + Keeping myself and others organized; keeping track of details
-+ Planning, developing strategies, figuring out how to get started on a new project or problem that has a lot of uncertainty
++ Planning, developing strategies, and figuring out how to get started on a new project or problem that has a lot of uncertainty
 + Recognizing when something isn't working, and proposing new approaches
 
 What I want to do in my career
@@ -26,11 +26,13 @@ I want to help people understand each other better, so that they can solve diffi
 
 People I want to be around
 ---
-I work hard, but I'm not perfect and I don't know everything. I want to be around people who:
-+ Appreciate my hard work, and work hard themselves
-+ Have opinions and perspectives that differ from my own, and who help me to learn, grow, and improve
+I work hard, but I'm not perfect and I don't know everything. I want to be around people who appreciate my hard work, and work hard themselves. I also want to spend time with people who have opinions and perspectives that differ from my own, and who help me to learn, grow, and improve.
 
 Some things I'm interested in
 ---
 + Software Development (risk management, strategies to improve quality)
 + Sustainability (environmental, financial, health/lifestyle)
+
+What's next?
+---
+Use this information as a guide to assess current and future career situations, to help me capitalize on my strengths, and to maintain focus on what's most important to me. If I were *actually* to use this as a resume, I'd also want to summarize my past work experiences and things I've learned from them. Maybe that could be a good idea for my next blog post.
