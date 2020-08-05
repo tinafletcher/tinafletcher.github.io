@@ -22,7 +22,7 @@ What I'm good at
 
 What I want to do in my career
 ---
-I want to help people understand each other better, so that they can solve difficult problems together.
+I want to help people understand each other better, and formulate plans to tackle challenging projects, so that we can solve difficult problems together.
 
 People I want to be around
 ---
