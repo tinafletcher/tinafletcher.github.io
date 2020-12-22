@@ -18,7 +18,7 @@ At D2L, we're starting to build Talent Profiles into our overall process for rec
 Here are some artifacts that will give you a sense of what my internal resume looks like. But yours might look completely different.
 
 [PDF version of Tina's D2L talent profile](../images/Tina Fletcher - D2L Talent Profile - 2020.pdf)
-![Image showing a list of initiatives Tina has worked on at D2L](../images/Overview of my D2L journey.png)
+![Image showing a list of initiatives Tina has worked on at D2L](../images/Overview of my D2L journey.PNG)
 
 ## Why did you write so many "alternate" resumes this year?
 That's a great question, and one I've been asking myself as I write this post ;)
