@@ -17,17 +17,17 @@ At D2L, we're starting to build Talent Profiles into our overall process for rec
 ## What might it look like?
 Here are some artifacts that will give you a sense of what my internal resume looks like. But yours might look completely different.
 
-![PDF version of Tina's D2L talent profile](../images/Tina Fletcher - D2L Talent Profile - 2020.pdf)
+[PDF version of Tina's D2L talent profile](../images/Tina Fletcher - D2L Talent Profile - 2020.pdf)
 ![Image showing a list of initiatives Tina has worked on at D2L](../images/Overview of my D2L journey.png)
 
 ## Why did you write so many "alternate" resumes this year?
 That's a great question, and one I've been asking myself as I write this post ;)
 
-Over the summer, I did a career exploration exercise that resulted in a summary of my high level life and career goals. I then wondered if this overview could actually function as a very general resume. https://www.tinafletcher.ca/My-new-resume/
+Over the summer, I did a career exploration exercise that resulted in a [summary of my high level life and career goals](https://www.tinafletcher.ca/My-new-resume/). I then wondered if this overview could actually function as a very general resume.
 
-Then, as I reflected on the experience of reconnecting with someone I hadn't talked to in 23 years, I observed that summarizing 23 years of my life also felt a bit like writing a resume. https://www.tinafletcher.ca/Last-23-years/
+Then, as I reflected on the [experience of reconnecting with someone I hadn't talked to in 23 years](https://www.tinafletcher.ca/Last-23-years/), I observed that summarizing 23 years of my life also felt a bit like writing a resume.
 
-Shortly afterwards, I made an internal transition to a new team at D2L, and as part of introducing myself to my new direct reports I decided to write a Readme which summarized my values and my approach to management. This, too, felt like I was writing a resume with a very specific target audience (i.e., my new team). https://www.tinafletcher.ca/Readme/
+Shortly afterwards, I made an internal transition to a new team at D2L, and as part of introducing myself to my new direct reports I decided to write a [Readme which summarized my values and my approach to management](https://www.tinafletcher.ca/Readme/). This, too, felt like I was writing a resume with a very specific target audience (i.e., my new team).
 
 And now here I am, describing the experience of writing a company-specific internal resume. I guess 2020 has been a good opportunity to stop and take stock of things, while so many aspects of life have been on pause.
 
