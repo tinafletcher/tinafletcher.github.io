@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New problems are rare
-excerpt: I haven't done a lot of coding since finishing my university computer science program about 11 years ago, as I've focused primarily on testing, quality strategy, and people leadership in my career so far. In the past year or so, though, I've taken on two coding projects: one was building data analysis tools for a Code Stewardship initiative I worked on, and the other was building a basic web site from scratch and hosting it in AWS.
+excerpt: I haven't done a lot of coding since finishing my university computer science program about 11 years ago, as I've focused primarily on testing, quality strategy, and people leadership in my career so far. In the past year or so, though, I've taken on two coding projects - one was building data analysis tools for a Code Stewardship initiative I worked on, and the other was building a basic web site from scratch and hosting it in AWS.
 ---
 
 
