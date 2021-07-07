@@ -2,6 +2,7 @@
 layout: post
 title: My retirement speech
 excerpt: I recently took a course through Athabasca University called Leading for Legacy. One of the activities I completed as part of the course was to write the speech that I'd like to hear one of my colleagues give at my retirement party.
+tag: general
 ---
 
 I recently took a course through Athabasca University called [Leading for Legacy](https://powered.athabascau.ca/product?catalog=Leading-for-Legacy). My employer, D2L, paid for my tuition and provided "learning days" where I could spend work time on the course. Even better, I found out about this course and obtained approval to register by using the system that my team and I built over the past year. [D2L Wave](https://www.d2l.com/corporate/wave/) is live, and D2L's employees are its first customers. Pretty exciting times!

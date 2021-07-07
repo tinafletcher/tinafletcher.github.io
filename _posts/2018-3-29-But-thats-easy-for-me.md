@@ -1,6 +1,7 @@
 ---
 layout: post
 title: But, that's easy for me
+tag: general
 ---
 
 

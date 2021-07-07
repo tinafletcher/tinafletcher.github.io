@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An ideal day
+tag: general
 ---
 
 

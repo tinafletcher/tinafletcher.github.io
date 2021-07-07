@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Things learned while writing about things learned
+tag: general
 ---
 
 

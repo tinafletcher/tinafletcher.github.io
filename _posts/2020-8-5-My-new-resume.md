@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My new resume?
+tag: general
 ---
 
 I finally spent some time doing a "career exploration" exercise that had been on my to-do list forever.

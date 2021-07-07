@@ -2,6 +2,7 @@
 layout: post
 title: One of the most satisfying things I did in 2020
 excerpt: I think we can all agree that 2020 had more than its fair share of challenges and disappointments. So I thought I'd share one thing I did at work this year that I found to be really satisfying and rewarding. I created an internal resume for my time at D2L so far.
+tag: general
 ---
 
 I think we can all agree that 2020 had more than its fair share of challenges and disappointments. So I thought I'd share one thing I did at work this year that I found to be really satisfying and rewarding. I created an internal resume for my time at D2L so far.
