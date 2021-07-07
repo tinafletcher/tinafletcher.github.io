@@ -162,7 +162,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 5px solid $green;
+  border-bottom: 20px solid $green;
 
   @include mobile {
     text-align: center;
@@ -281,7 +281,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGreen;
+  background-color: $green;
 }
 
 footer {
