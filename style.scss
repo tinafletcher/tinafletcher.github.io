@@ -157,6 +157,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 5px solid $green;
+  width: 100%;
 
   @include mobile {
     text-align: center;
@@ -182,7 +183,6 @@ img {
 
 .site-info {
   float: left;
-  width: 100%;
 
   @include mobile {
     float: none;
