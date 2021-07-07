@@ -5,7 +5,7 @@ title: Writing
 
 <div class="posts">
   {% for tag in site.tags %}
-    {% if tag[0] != "plastic" %}
+    {% unless tag[0] == "plastic" %}
       {% for post in tag[1] %}
         <article class="post">
 
@@ -23,7 +23,7 @@ title: Writing
 
         </article>
       {% end for %}
-    {% endif %}
+    {% endunless %}
   {% endfor %}
 
 </div>
