@@ -27,7 +27,7 @@ title: Writing
 
 <div class="posts">
   {% for tag in site.tags %}
-    {% if tag[0] == "plastic"}
+    {% if tag[0] == "plastic" %}
       <h3>{{ tag[0] }}</h3>
       <ul>
         {% for post in tag[1] %}
