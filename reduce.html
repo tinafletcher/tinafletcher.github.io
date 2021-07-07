@@ -17,3 +17,30 @@ title: Plastic Reduction
   {% endfor %}
 
 </div>
+
+<div class="posts">
+  Some kind of intro...
+
+  {% for tag in site.tags %}
+    {% if tag[0] == "plastic" %}
+      {% for post in tag[1] %}
+        <article class="post">
+
+          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+          <div class="entry">
+            {{ post.excerpt }}
+          </div>
+
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
+          <div class="date">
+            Written on {{ post.date | date: "%B %e, %Y" }}
+          </div>
+
+        </article>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+
+</div>
