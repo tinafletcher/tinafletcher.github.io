@@ -2,6 +2,7 @@
 layout: post
 title: Starry Nights and unexpected insights
 tag: general
+excerpt: This is a puzzle that I worked on for over a year at my office.
 ---
 
 

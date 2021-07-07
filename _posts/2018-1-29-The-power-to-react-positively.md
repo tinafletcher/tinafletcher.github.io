@@ -2,6 +2,7 @@
 layout: post
 title: The power to react positively
 tag: general
+excerpt: One night last week, I was leaving work. It was dark and rainy, and because the temperature was hovering around zero, it was also icy. I was waiting to cross the street to get to my parking lot.
 ---
 
 

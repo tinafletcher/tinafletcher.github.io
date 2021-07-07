@@ -2,6 +2,7 @@
 layout: post
 title: Things learned while writing about things learned
 tag: general
+excerpt: Last year, I conducted a 12 month experiment related to implementing Code Stewardship at my organization. It went ok; I think I made some progress, and I think I learned some useful things.
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: An ideal day
 tag: general
+excerpt: As with many couples (I'd imagine), over dinner my husband and I typically ask each other: "How was your day?". A common initial response from either one of us might be a word like "fine", "ok", or "decent", which means the day was basically average and not particularly remarkable as either very good or very bad.
 ---
 
 

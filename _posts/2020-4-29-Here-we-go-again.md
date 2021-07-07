@@ -2,6 +2,7 @@
 layout: post
 title: Here we go again
 tag: general
+excerpt: Welcome to version 2.0 of tinafletcher.ca! Wow, it's been a while. So many things have happened...
 ---
 
 

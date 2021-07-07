@@ -2,6 +2,7 @@
 layout: post
 title: But, that's easy for me
 tag: general
+excerpt: A thing I'm trying to get better at is accepting praise for doing something that felt easy to me.
 ---
 
 
