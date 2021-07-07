@@ -6,7 +6,7 @@ permalink: /reduce/
 
 <div class="posts">
   {% for post in site.posts %}
-     {% if post.tag == "plastic" %}
+     <!-- {% if post.tag == "plastic" %} -->
       <article class="post">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -22,6 +22,6 @@ permalink: /reduce/
         </div>
 
       </article>
-    {% end if %}
+    <!-- {% end if %} -->
   {% endfor %}
 </div>
