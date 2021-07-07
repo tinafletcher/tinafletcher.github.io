@@ -25,7 +25,13 @@ body {
 
 .container {
   margin: 0 auto;
-  /*max-width: 1000px;*/
+  max-width: 1000px;
+  padding: 0 10px;
+  width: 100%;
+}
+
+.topcontainer {
+  margin: 0 auto;
   padding: 0 10px;
   width: 100%;
 }
