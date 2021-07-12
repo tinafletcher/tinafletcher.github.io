@@ -47,6 +47,6 @@ If you think that a virtual watch party is something you'd like to try, but you'
 - Classic movies that some team members know and love, and others will be seeing for the first time
 
 ## Are there any drawbacks?
-I haven't discovered any significant disadvantages to virtual team video watching. Obviously, you'll need at least one person who has a good internet connection (to play and share the video). And as the participants who are not sharing the content, there is usually a *small* bit of choppiness in the video playback (in my experience, not very noticeable after the first few minutes, though).
+I haven't discovered any significant disadvantages to virtual team video watching. Obviously, you'll need at least one person who has a good internet connection (to play and share the video). And for the participants who are not sharing the content, there is usually a *small* bit of choppiness in the video playback (in my experience, not very noticeable after the first few minutes, though).
 
 Overall, the virtual watch party is definitely a technique that I'll be continuing to use even after it's possible for my team to gather in person.
