@@ -27,10 +27,10 @@ Oddly enough, virtual watch parties are actually pretty good as a team building 
 
 ## Why virtual watch parties can be more effective than doing them in person
 
-#### Side discussions are less disruptive
-While watching the video, people can discuss the content via text chat. This means you can react to and share insights for things in real time, rather than waiting until the end of the video and trying to remember the details of things that were said earlier on.
+#### Virtual side discussions are less disruptive
+While watching the video at their own desks, people can discuss the content via text-based chat. Typing in a chat is a lot less disruptive to the group as a whole than to having a side discussion while watching a video in person. Participants can check in on the chat periodically at their convenience, or even ignore it altogether if that's their preference. It's usually much harder to ignore or defer side chats that are happening in a shared physical space.
 
-Text chat is also a lot less disruptive to the group as a whole; people can check in on the chat periodically at their convenience or according to their preferences. It's usually much harder to ignore side chats that are happening in a shared physical space.
+So, encouraging a text-based side chat means you can react and share insights in real time, rather than waiting until the end of the video and trying to remember the details of things that were said earlier on.
 
 #### You don't need to find a large physical space to watch the video
 Everyone joins from the comfort of their own space. No need to spend time finding and booking a large meeting room. No need to spend time fighting with AV equipment in the room that may or may not be working properly.
