@@ -22,7 +22,7 @@ I've also found that group watching sessions are beneficial because then most of
 Finally, it's just more engaging to learn with a group of people that you know. I know from personal experience that if I'm watching a video on my own, I'm far more likely to multi-task or get distracted than if I'm watching that same video in a group (and potentially discussing the content in real time... more on that below).
 
 #### It's a good way to have fun as a group
-Oddly enough, virtual watch parties are actually pretty good as a team building activity. I've used this as a pandemic-friendly replacement for "going out for lunch" when we want to celebrate something as a team. Instead of sitting in a restaurant, we watch a movie while we eat lunch, and having that to focus on is a great way to remove the awkwardness of watching each other eat over video conference. In this case, we choose something that's just for fun - just a regular movie that we can access via a streaming service.
+Watching a movie is a pretty standard group social activity, usually among friends or family. In my experience, group movie watching (either in-person or virtual) is actually pretty good as a team building activity, too. I've used the virtual version as a pandemic-friendly replacement for "going out for lunch" when we want to celebrate something as a team. Instead of sitting in a restaurant, we watch a movie while we eat lunch, and having that to focus on is a great way to remove the awkwardness of watching each other eat over video conference. In this case, we choose something that's just for fun - just a regular movie that we can access via a streaming service.
 
 
 ## Why virtual watch parties can be more effective than doing them in person
@@ -36,7 +36,7 @@ So, encouraging a text-based side chat means you can react and share insights in
 Everyone joins from the comfort of their own space. No need to spend time finding and booking a large meeting room. No need to spend time fighting with AV equipment in the room that may or may not be working properly.
 
 #### Virtual watching might be more inclusive
-Depending on the make-up of your team, hosting a virtual watch party might mean that more of your team members can participate, more fully. The watch-from-your-own desk format means that team members who are not physically located near the rest of the group, or those who may want to use assistive technologies to help them understand and process the video, have an equal opportunity to participate.
+Depending on the make-up of your team, hosting a virtual watch party might mean that more of your team members can participate, more fully. The watch-from-your-own desk format means that team members who are not geographically located near the rest of the group, or those who may want to use assistive technologies to help them understand and process the video, have an equal opportunity to participate.
 
 
 ## So what should we watch?
