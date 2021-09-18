@@ -9,7 +9,7 @@ A group of people watching a video together while sitting on a Zoom call.
 
 Does this sound like a terrible idea? A few months ago, I would have said yes.
 
-But I've done this a number of times now with my current team at work, and here are some reasons I like it.
+But I've done this a number of times now with my current team at work, and here are some reasons why I've actually really liked it.
 
 
 ## Why watching videos as a team is a good idea in general
@@ -22,7 +22,9 @@ I've also found that group watching sessions are beneficial because then most of
 Finally, it's just more engaging to learn with a group of people that you know. I know from personal experience that if I'm watching a video on my own, I'm far more likely to multi-task or get distracted than if I'm watching that same video in a group (and potentially discussing the content in real time... more on that below).
 
 #### It's a good way to have fun as a group
-Watching a movie is a pretty standard group social activity, usually among friends or family. In my experience, group movie watching (either in-person or virtual) is actually pretty good as a team building activity, too. I've used the virtual version as a pandemic-friendly replacement for "going out for lunch" when we want to celebrate something as a team. Instead of sitting in a restaurant, we watch a movie while we eat lunch, and having that to focus on is a great way to remove the awkwardness of watching each other eat over video conference. In this case, we choose something that's just for fun - just a regular movie that we can access via a streaming service.
+Watching a movie is a pretty standard group social activity, usually among friends or family. In my experience, group movie watching (either in-person or virtual) is actually pretty good as a team building activity, too. I've used the virtual version as a pandemic-friendly replacement for "going out for lunch" when we want to celebrate something as a team.
+
+Instead of sitting in a restaurant, we watch a movie while we eat lunch, and having that to focus on is a great way to remove the awkwardness of watching each other eat over video conference. In this case, we choose something that's just for fun - just a regular movie that we can access via a streaming service.
 
 
 ## Why virtual watch parties can be more effective than doing them in person
@@ -35,14 +37,14 @@ Encouraging a text-based side chat means you can react and share insights in rea
 #### You don't need to find a large physical space to watch the video
 Everyone joins from the comfort of their own space. No need to spend time finding and booking a large meeting room. No need to spend time fighting with AV equipment in the room that may or may not be working properly.
 
-#### Virtual watching might be more inclusive
+#### Virtual watching can be more inclusive
 Depending on the make-up of your team, hosting a virtual watch party might mean that more of your team members can participate, more fully. The watch-from-your-own desk format means that team members who are not geographically located near the rest of the group, or those who may want to use assistive technologies to help them understand and process the video, have an equal opportunity to participate.
 
 
 ## So what should we watch?
 If you think that a virtual watch party is something you'd like to try, but you're not sure what kind of video to choose, here are some categories of things my team has watched that worked well for us.
 
-- Talks/presentations that we hope will help us develop strategies to address challenges we're having in our team (technical, process, etc)
+- Talks/presentations that we hope will help us develop strategies to address challenges we're having in our team (technical, process, etc.)
 - Overviews of new technologies that we are considering trying out, or want to get better at using
 - Classic movies that some team members know and love, and others will be seeing for the first time
 

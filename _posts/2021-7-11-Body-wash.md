@@ -4,7 +4,7 @@ title: Body wash
 tag: plastic
 ---
 
-Finding a plastic-free replacement for body wash was a pretty easy one. Bar soap.
+Finding a plastic-free replacement for body wash was a pretty easy one. Good old bar soap.
 
 This is a place where you could go pretty cheap (think Irish Spring), or go fancier and try out something local and hand made (which will cost more, of course).
 
