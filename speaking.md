@@ -4,7 +4,13 @@ title: Speaking
 permalink: /speaking/
 ---
 
-Here are some of the talks I've presented in the past. I haven't been too active lately with speaking, mainly due to having been on maternity leave and then there was a global pandemic. But I hope to get back into the circuit again at some point.
+Here are some of the talks I've presented in the past.
+
+### I Dared Myself to Get Better at Story Grooming
+![Thumbnail image of a slide that says "I Dared Myself to Get Better at Story Grooming"](/images/Story Grooming Thumbnail.PNG)
++ Slides: [PDF version of the slides for "Why I Prefer Good Testing Over Excellent Testing"](../images/I Dared Myself to Get Better at Story Grooming.pdf)
++ Presented at: D2L's internal dev conference (InFusion) 2021
++ Recording: [InFusion 2021](https://youtu.be/DAuLWBmbWnc)
 
 ### Why I Prefer Good Testing Over Excellent Testing
 ![Thumbnail image of a slide that says "Be ready to handle failure; you won't find all the bugs anyway"](/images/Thumbnail - Why I Prefer.jpg)
