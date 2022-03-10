@@ -33,7 +33,7 @@ Over the summer, I did a career exploration exercise that resulted in a summary 
 
 Then, as I reflected on the experience of reconnecting with someone I hadn't talked to in 23 years, I observed that summarizing 23 years of my life also felt a bit like writing a resume. https://www.tinafletcher.ca/Last-23-years/
 
-Shortly afterwards, I made an internal transition to a new team at D2L, and as part of introducing myself to my new direct reports I decided to write a Readme which summarized my values and my approach to management. This, too, felt like I was writing a resume with a very specific target audience (i.e., my new team). https://www.tinafletcher.ca/Readme/
+Shortly afterwards, I made an internal transition to a new team at D2L, and as part of introducing myself to my new direct reports I decided to write a Readme which summarized my values and my approach to management. This, too, felt like I was writing a resume with a very specific target audience (i.e., my new team). An updated version of this can be found at [What kind of manager am I?](https://www.linkedin.com/feed/update/urn:li:activity:6895370660898844672/).
 
 And now here I am, describing the experience of writing a company-specific internal resume. I guess 2020 has been a good opportunity to stop and take stock of things, while so many aspects of life have been on pause.
 
