@@ -8,7 +8,7 @@ Here are some of the talks I've presented in the past.
 
 ### I Dared Myself to Get Better at Story Grooming
 ![Thumbnail image of a slide that says "I Dared Myself to Get Better at Story Grooming"](/images/Story Grooming Thumbnail.PNG)
-+ Slides: [PDF version of the slides for "Why I Prefer Good Testing Over Excellent Testing"](../images/I Dared Myself to Get Better at Story Grooming.pdf)
++ Slides: [PDF version of the slides for "I Dared Myself to Get Better at Story Grooming"](../images/I Dared Myself to Get Better at Story Grooming.pdf)
 + Presented at: D2L's internal dev conference (InFusion) 2021
 + Recording: [InFusion 2021](https://youtu.be/DAuLWBmbWnc)
 
