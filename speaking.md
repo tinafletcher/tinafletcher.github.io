@@ -6,6 +6,9 @@ permalink: /speaking/
 
 Here are some of the talks I've presented in the past.
 
+### Standing Up for Standup Alternatives
++ Recording: [Episode 10 of Dude, Where's My Code? Podcast](https://www.youtube.com/watch?v=stY6pADhJ8w)
+
 ### I Dared Myself to Get Better at Story Grooming
 ![Thumbnail image of a slide that says "I Dared Myself to Get Better at Story Grooming"](/images/Story Grooming Thumbnail.PNG)
 + Slides: [PDF version of the slides for "I Dared Myself to Get Better at Story Grooming"](../images/I Dared Myself to Get Better at Story Grooming.pdf)
