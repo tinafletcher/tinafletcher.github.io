@@ -8,7 +8,7 @@ Here are some of the talks I've presented in the past.
 
 ### Career Growth for Testers
 ![Thumbnail image of a slide that says "Career Growth for Testers"](/images/Career Growth Thumbnail.PNG)
-+ Slides: [PDF version of the slides for "Career Growth for Testers"](../images/Career Growth for Testers.pdf)
++ Slides: [PDF version of the slides for "Career Growth for Testers"](../images/Career Growth For Testers.pdf)
 + Presented at: Targeting Quality 2023
 
 ### Standing Up for Standup Alternatives
