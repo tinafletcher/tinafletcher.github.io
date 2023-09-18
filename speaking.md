@@ -6,6 +6,11 @@ permalink: /speaking/
 
 Here are some of the talks I've presented in the past.
 
+### Career Growth for Testers
+![Thumbnail image of a slide that says "Career Growth for Testers"](/images/Career Growth Thumbnail.PNG)
++ Slides: [PDF version of the slides for "Career Growth for Testers"](../images/Career Growth for Testers.pdf)
++ Presented at: Targeting Quality 2023
+
 ### Standing Up for Standup Alternatives
 + Recording: [Episode 10 of Dude, Where's My Code? Podcast](https://www.youtube.com/watch?v=stY6pADhJ8w) (January 2023)
 <br>
