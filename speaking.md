@@ -6,10 +6,15 @@ permalink: /speaking/
 
 Here are some of the talks I've presented in the past.
 
+### Conference Speaking: Where Do I Even Start?
+![Photo of the first 2 graduates of the Conference Speaking: Where Do I Even Start? workshop in 2024"](/images/Career Growth first graduates.PNG)
++ Co-Presenter: Bailey Hanna
++ Presented at: <a href="https://www.linkedin.com/posts/tina-fletcher-5b99a21_tq2024-activity-7249604680790523905-JxX_">Targeting Quality 2024</a>
+
 ### Career Growth for Testers
 ![Thumbnail image of a slide that says "Career Growth for Testers"](/images/Career Growth Thumbnail.PNG)
 + Slides: [PDF version of the slides for "Career Growth for Testers"](../images/Career Growth For Testers.pdf)
-+ Presented at: Targeting Quality 2023
++ Presented at: Targeting Quality 2023, TASSQ monthly meetup in February 2024
 
 ### Standing Up for Standup Alternatives
 + Recording: [Episode 10 of Dude, Where's My Code? Podcast](https://www.youtube.com/watch?v=stY6pADhJ8w) (January 2023)
