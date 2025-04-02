@@ -7,7 +7,7 @@ permalink: /speaking/
 Here are some of the talks I've presented in the past.
 
 ### Conference Speaking: Where Do I Even Start?
-![Photo of the first 2 graduates of the Conference Speaking: Where Do I Even Start? workshop in 2024"](/images/Career Growth first graduates.PNG)
+![Photo of the first 2 graduates of the Conference Speaking: Where Do I Even Start? workshop in 2024"](/images/Career Growth first graduates.png)
 + Co-Presenter: Bailey Hanna
 + Presented at: <a href="https://www.linkedin.com/posts/tina-fletcher-5b99a21_tq2024-activity-7249604680790523905-JxX_">Targeting Quality 2024</a>
 
