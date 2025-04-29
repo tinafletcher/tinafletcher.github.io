@@ -4,8 +4,6 @@ title: Explore AI for Software Quality Tasks
 permalink: /exploreai/
 ---
 
-President of [KWSQA](https://www.kwsqa.org), Senior Software Development Manager at [D2L](https://www.d2l.com), occasional conference speaker.
+Guided Exploration: Applying AI to assist with software quality tasks
 
 ![Looking out over Dinosaur Provincial Park](../images/dinosaur.jpg)
-![Close up of hop cones](../images/hops.jpg)
-![Travel trailer](../images/trailer.jpg)
