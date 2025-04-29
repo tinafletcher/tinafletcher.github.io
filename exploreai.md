@@ -36,14 +36,14 @@ LLMs you could use today:
 This is a very brief overview of some things you might want to include when writing a prompt. However, be aware that this is an entire field of academic research, so there is a LOT more nuance to consider than what I've described here.
 
 | Technique | Description | Example usage |
-| --- | --- | --- |
+|---|---|---|
 | Role assignment | What perspective/persona you want the LLM to take on during your conversation | e.g. “You are an expert software tester”, “You are highly knowledgeable in security testing” |
 
 
 ### Sample Prompts
 
 | Task | Sample prompt |
-| --- | --- |
+|---|---|
 | Generating test case ideas | “You are an expert software tester. Your task is to generate a list of the top 5 most useful test cases to execute, where the application under test is a basic login page. Do not include any load testing scenarios. Use a concise tone, and it’s ok to use technical language where applicable. Output the 5 test cases as an unordered list, then in a separate section explain your reasoning for including each of the test cases in the list. An example test case might be to verify successful login with valid credentials. The top 5 test cases for a basic login page are:” |
 
 
