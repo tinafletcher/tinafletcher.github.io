@@ -6,105 +6,44 @@ permalink: /exploreai/
 
 ![Looking out over Dinosaur Provincial Park](../images/dinosaur.jpg)
 
-<h2>Introduction</h2>
-<ul>
-  <li>Intro to speaker</li>
-  <li>Your goals</li>
-  <li>My goals</li>
-</ul>
+### Introduction
++ Intro to speaker
++ Your goals
++ My goals
 
-<h2>Official Takeaways</h2>
-<ul>
-  <li>Leave this session with at least one practical idea for how to start leveraging AI in your software quality tasks</li>
-  <li>Your imagination has been sparked with additional AI use cases to continue exploring after the session</li>
-</ul>
+### Official Takeaways
++ Leave this session with at least one practical idea for how to start leveraging AI in your software quality tasks
++ Your imagination has been sparked with additional AI use cases to continue exploring after the session
 
-<h2>Tasks and Tools</h2>
+### Tasks and Tools
 
-<p>What software quality tasks could potentially be augmented with AI?</p>
-<ul>
-  <li>Generating test case ideas</li>
-  <li>Creating synthetic test data</li>
-  <li>Writing code for automated test cases</li>
-  <li>Performing risk analysis</li>
-  <li>Improving bug reports</li>
-  <li>What else?</li>
-</ul>
+What software quality tasks could potentially be augmented with AI?
++ Generating test case ideas
++ Creating synthetic test data
++ Writing code for automated test cases
++ Performing risk analysis
++ Improving bug reports
++ What else?
 
-<p>LLMs you could use today:</p>
-<ul>
-  <li>Sign up with a free account at huggingface.co; access to >1 million open source models</li>
-  <li>Use your Google account at gemini.google.com to access the free tier of Gemini</li>
-  <li>Create a free account at claude.ai to access the free tier of Claude</li>
-  <li>Try ChatGPT at chatgpt.com; can also create a free account for access to additional features</li>
-  <li>Any other free or paid LLM you happen to have access to</li>
-</ul>
+LLMs you could use today:
++ Sign up with a free account at huggingface.co; access to >1 million open source models
++ Use your Google account at gemini.google.com to access the free tier of Gemini
++ Create a free account at claude.ai to access the free tier of Claude
++ Try ChatGPT at chatgpt.com; can also create a free account for access to additional features
++ Any other free or paid LLM you happen to have access to
 
-<h2>Prompting Techniques</h2>
-<table>
-<tr>
-  <th>Technique</th>
-  <th>Description</th>
-  <th>Example usage</th>
-</tr>
-<tr>
-  <td>Role assignment</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Role assignment</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Role assignment</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Role assignment</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Role assignment</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Role assignment</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Role assignment</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Role assignment</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Role assignment</td>
-  <td></td>
-  <td></td>
-</tr>
-  
-</table>
+### Prompting Techniques
+This is a very brief overview of some things you might want to include when writing a prompt. However, be aware that this is an entire field of academic research, so there is a LOT more nuance to consider than what I've described here.
 
-<h2>Sample Prompts</h2>
+| Technique | Description | Example usage |
+| ----- | ----- | ----- |
+| Role assignment | What perspective/persona you want the LLM to take on during your conversation | e.g. “You are an expert software tester”, “You are highly knowledgeable in security testing” |
 
-<table>
-<tr>
-  <th>Task</th>
-  <th>Sample prompt</th>
-</tr>
-<tr>
-  <td>Generating test case ideas</td>
-  <td>You are knowledgeable about phone number formats used around the world. Your task is to generate a list of 25 potentially valid phone numbers that I could use when testing that my software application properly handles all possible variations of international phone numbers. Do not consider formats that incorporate an extension, such as in an office setting. Make sure to include some variations that have special characters such as dashes or brackets - for example, (519) 999-8888. For each phone number, provide a brief explanation of why it was included and what makes it unique or interesting compared to the others in the list. 25 potentially valid international phone numbers I could use while testing my software application are:</td>
-</tr>
-  
-</table>
+
+### Sample Prompts
+
+| Task | Sample prompt |
+| ----- | ----- |
+| Generating test case ideas | “You are an expert software tester. Your task is to generate a list of the top 5 most useful test cases to execute, where the application under test is a basic login page. Do not include any load testing scenarios. Use a concise tone, and it’s ok to use technical language where applicable. Output the 5 test cases as an unordered list, then in a separate section explain your reasoning for including each of the test cases in the list. An example test case might be to verify successful login with valid credentials. The top 5 test cases for a basic login page are:” |
+
+
