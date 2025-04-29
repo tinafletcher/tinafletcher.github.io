@@ -104,6 +104,21 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
+table {
+  border-collapse: collapse; /* Ensures borders of adjacent cells touch */
+  width: 100%; /* Adjust as needed */
+}
+
+th, td {
+  border: 1px solid #ccc; /* Adjust border style, color, and width */
+  padding: 8px; /* Add some spacing inside cells */
+  text-align: left; /* Adjust text alignment */
+}
+
+th {
+  background-color: #f2f2f2; /* Optional: style the header background */
+}
+
 em, i {
   font-style: italic;
 }
