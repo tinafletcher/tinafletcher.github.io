@@ -64,25 +64,7 @@ TIP 2: Providing no examples is called zero shot prompting, giving one example i
 | Creating synthetic test data | “You are knowledgeable about phone number formats used around the world. Your task is to generate a list of 25 potentially valid phone numbers that I could use when testing that my software application properly handles all possible variations of international phone numbers. Do not consider formats that incorporate an extension, such as in an office setting. Make sure to include some variations that have special characters such as dashes or brackets - for example, (519) 999-8888. For each phone number, provide a brief explanation of why it was included and what makes it unique or interesting compared to the others in the list. 25 potentially valid international phone numbers I could use while testing my software application are:” |
 | Writing code for automated test cases | “You are skilled at writing test cases for software applications using the automated test framework Playwright. Write the code for an automated test that will navigate to a specified URL, locate the search field, enter a search string, execute the search, and then confirm that at least one result appeared on the page. Prefer the use of code that is easier to read and understand rather than the most concise solution possible, and include lots of comments in the code to explain what is happening at each stage.” |
 | Performing risk analysis | “You are a member of a software development team that is about to start a project that involves refactoring a JavaScript code base to use Typescript. Your background is in software quality, and your task is to help the team identify risks in the project. What are some common issues that the team should be on the lookout for as they undertake this refactoring project? For example, are there specific classes of bugs that tend to be introduced when making the switch to Typescript? Using a concise tone, list 3 important risks that the team should consider developing mitigation plans for, along with some specific sample test cases that would help to identify potential bugs. Assume that non-technical things like tight timelines and insufficient resources are not significant risks for this project.” |
-| Improving bug reports | “You are a software tester who has just discovered an important product defect. You recently submitted the following bug report, but you feel it has not been receiving the attention it deserves and you suspect it’s because your bug report (while concise and easy to interpret) has not made the overall impact and required next steps clear enough. Rewrite the bug report to include more details that better convey the widespread nature of the issue, and the potential user and company impact if the issue is not resolved in a timely manner. Do not modify any of the core details or scope already expressed in the original report; focus on clearer communication only.
-
-The original bug report is as follows.
-Product: E-commerce Platform
-Version: 2.0.1
-Component: Checkout
-Severity: High
-Priority: Urgent
-Reported By: Tina Fletcher
-Date: 2025-04-25
-Environment: Staging (Ontario, Canada)
-Steps: Checkout with Ontario shipping address.
-Expected: 13% HST applied.
-Actual: 5% tax applied.
-Impact: Incorrect sales tax calculation (undercharging).
-Attachment: Screenshot of incorrect tax.
-Note: Ontario tax rate is incorrectly 5% instead of 13% HST. Requires immediate fix.
-
-Now provide the updated version that better describes the impact, as described above:” |
+| Improving bug reports | “You are a software tester who has just discovered an important product defect. You recently submitted the following bug report, but you feel it has not been receiving the attention it deserves and you suspect it’s because your bug report (while concise and easy to interpret) has not made the overall impact and required next steps clear enough. Rewrite the bug report to include more details that better convey the widespread nature of the issue, and the potential user and company impact if the issue is not resolved in a timely manner. Do not modify any of the core details or scope already expressed in the original report; focus on clearer communication only.<br>The original bug report is as follows.<br><br>Product: E-commerce Platform<br>Version: 2.0.1<br>Component: Checkout<br>Severity: High<br>Priority: Urgent<br>Reported By: Tina Fletcher<br>Date: 2025-04-30<br>Environment: Staging (Ontario, Canada)<br>Steps: Checkout with Ontario shipping address.<br>Expected: 13% HST applied.<br>Actual: 5% tax applied.<br>Impact: Incorrect sales tax calculation (undercharging).<br>Attachment: Screenshot of incorrect tax.<br>Note: Ontario tax rate is incorrectly 5% instead of 13% HST. Requires immediate fix.<br><br>Now provide the updated version that better describes the impact, as described above:” |
 
 ### Run a sample prompt; discuss initial impressions
 
