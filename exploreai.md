@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Guided Exploration for AI
+title: Guided Exploration for applying AI to assist with software quality tasks
 permalink: /exploreai/
 ---
 
 ![Looking out over Dinosaur Provincial Park](../images/dinosaur.jpg)
-
-## Guided Exploration: Applying AI to assist with software quality tasks
 
 ### Introduction
 + Intro to speaker
