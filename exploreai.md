@@ -36,6 +36,7 @@ LLMs you could use today:
 This is a very brief overview of some things you might want to include when writing a prompt. However, be aware that prompt engineering is an entire field of academic research, so there is a LOT more nuance to consider than what I've described here.
 
 NOTE: It's not mandatory to use all of these techniques in a single prompt. Sometimes, it’s easier to start simple and add parameters as needed.
+
 ANOTHER NOTE: LLM prompts are not all that different than giving clear, detailed instructions to another human about a task to do.
 
 | Technique | Description | Example usage |
@@ -51,6 +52,7 @@ ANOTHER NOTE: LLM prompts are not all that different than giving clear, detailed
 | Final reinforcement | Repeat the key points or the overall goal of the interaction, especially if the prompt is long | e.g. “now provide the more detailed report - and remember, use only long-form paragraphs”, “the top 5 tests most likely to reveal important defects are:” |
 
 TIP 1: Depending on your LLM and pricing tier, you may be able to upload files that are then used as context within the conversation.
+
 TIP 2: Providing no examples is called zero shot prompting, giving one example is called one shot prompting, and providing a handful of examples is called few shot prompting.
 
 
@@ -82,5 +84,54 @@ Note: Ontario tax rate is incorrectly 5% instead of 13% HST. Requires immediate 
 
 Now provide the updated version that better describes the impact, as described above:” |
 
+### Run a sample prompt; discuss initial impressions
+
+Run one or more of the sample prompts, using any LLM. (Can you identify the techniques being used within the prompts?)
+
+What do you think of the results?
++ Good? Bad? Incomplete?
++ How does it compare to what you might have come up with on your own?
+
+Send some follow up prompts to continue brainstorming/iterating towards an optimal response:
++ Ask the LLM if it can improve upon the response it provided (e.g. “what else...?”)
++ Ask the LLM to tweak a certain detail (e.g. “add/remove...”)
++ Ask the LLM to clarify something it mentioned in the response (e.g. “can you explain...”)
+
+Debrief:
++ Did the follow up prompts provide any noticeable improvements?
++ What other techniques could you use to iterate towards a better response?
+
+### Explore properties/characteristics of LLMs; group debrief
+
+Now, explore some properties/quirks/capabilities of LLMs; use your tester brain!
++ Continue varying the instructions and parameters
++ Send the exact same prompt to the same LLM, multiple times
++ Send the exact same prompt to two different LLMs
++ Remove one or more of the components of the prompt
++ Change the order of the prompt components
++ Change the formatting or syntax of the prompt
++ Try reducing one of the sample prompts down to only a very basic instruction
++ See what happens if you provide conflicting information within a prompt
++ Ask the LLM how confident it is about its response to your prompt
++ Ask the LLM for advice about how to improve your prompt (or to write a completely new prompt)
++ Ask an LLM to compare two different responses to the same prompt (AI-as-a-judge; pairwise evaluation)
++ Ask an LLM to rate a response on a scale that you define (AI-as-a-judge; pointwise evaluation)
++ ...
+
+Debrief: what interesting things did you observe?
++ Any techniques that seemed particularly effective or ineffective?
++ Anything that surprised you, in a good or bad way?
++ What other experiments would you do if you had more time?
+
+### Conclusion; things to think about
+
+Did we achieve the desired takeaways?
++ Attendees leave the session with at least one practical idea for how to start leveraging AI in their software quality tasks
++ Attendees’ imaginations have been sparked with additional AI use cases to continue exploring in the future
+
+Things to think about
++ Security and privacy
++ Like any tool, there are trade offs
++ It’s a pretty cool time to be a tester; lots to explore related to evaluation of AI-based systems
 
 
