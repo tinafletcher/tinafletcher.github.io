@@ -50,7 +50,7 @@ What software quality tasks could potentially be augmented with AI?
 + Improving bug reports
 + What else?
 
-*We’ll come back to these after going over a few logistics and prompting mechanics.*
+**We’ll come back to these after going over a few logistics and prompting mechanics.**
 
 LLMs you could use today:
 + Sign up with a free account at <a href="https://www.huggingface.co">huggingface.co</a>; access to >1 million open source models
@@ -80,7 +80,7 @@ ANOTHER NOTE: LLM prompts are not all that different than giving clear, detailed
 | Reasoning preferences | Encourage structured thinking, if applicable | e.g. “think step-by-step”, “show your reasoning/logic when presenting solutions” |
 | Final reinforcement | Repeat the key points or the overall goal of the interaction, especially if the prompt is long | e.g. “now provide the more detailed report - and remember, use only long-form paragraphs”, “the top 5 tests most likely to reveal important defects are:” |
 
-*Using the above components/parameters as a guide, here are some sample prompts for the software quality tasks we listed earlier.*
+**Using the above components/parameters as a guide, here are some sample prompts for the software quality tasks we listed earlier.**
 
 ### Sample Prompts
 
