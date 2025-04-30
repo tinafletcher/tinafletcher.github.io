@@ -6,6 +6,8 @@ permalink: /exploreai/
 
 ![Looking out over Dinosaur Provincial Park](../images/dinosaur.jpg)
 
+## Guided Exploration: Applying AI to assist with software quality tasks
+
 ### Introduction
 + Intro to speaker
 + Your goals
