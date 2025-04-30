@@ -46,7 +46,7 @@ ANOTHER NOTE: LLM prompts are not all that different than giving clear, detailed
 | Role assignment | What perspective/persona you want the LLM to take on during your conversation | e.g. “You are an expert software tester”, “You are highly knowledgeable in security testing” |
 | Goal setting | What you want the outcome of the interaction to be | e.g. “Generate only the most critical test cases”, “Generate all the test cases you can think of” |
 | Context setting | General background information that will help focus the interaction | e.g. “...for an application that does XYZ”, “...for the application found at www.myapp.com” (see TIP 1 below) |
-| Examples | Specific examples that help to illustrate what you're looking for | e.g. “consider languages such as French, Italian, and Spanish”, “an example of a performance test is having 1000 users access the web site at the same time” |
+| Examples | Specific examples that help to illustrate what you're looking for | e.g. “consider languages such as French, Italian, and Spanish”, “an example of a performance test is having 1000 users access the web site at the same time” (see TIP 2 below) |
 | Style preferences | Specify behaviour and tone | e.g. “avoid technical language”, “use an informal tone” |
 | Format preferences | Desired structure of the output | e.g. “provide a 1-2 line summary followed by a bulleted list of the key points”, “response should be in valid json format” |
 | Controls or guard rails | Specify topics, phrases, etc that are prohibited | e.g. “do not include test cases that are related to invalid data”, “avoid any references to specific tools or libraries” |
