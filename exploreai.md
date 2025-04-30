@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guided Exploration - applying AI to assist with software quality tasks
+title: Guided Exploration - Using AI to assist with software quality tasks
 permalink: /exploreai/
 ---
 
@@ -43,8 +43,8 @@ ANOTHER NOTE: LLM prompts are not all that different than giving clear, detailed
 |---|---|---|
 | Role assignment | What perspective/persona you want the LLM to take on during your conversation | e.g. “You are an expert software tester”, “You are highly knowledgeable in security testing” |
 | Goal setting | What you want the outcome of the interaction to be | e.g. “Generate only the most critical test cases”, “Generate all the test cases you can think of” |
-| Context setting | General background information that will help focus the interaction | e.g. “...for an application that does XYZ”, “...for the application found at www.myapp.com”<br>Tip: Depending on your LLM and pricing tier, you may be able to upload files that are then used as context within the conversation. |
-| Examples | Specific examples that help to illustrate what you're looking for | e.g. “consider languages such as French, Italian, and Spanish”, “an example of a performance test is having 1000 users access the web site at the same time”<br>Terminology tip: Providing no examples is called zero shot prompting, giving one example is called one shot prompting, and providing a handful of examples is called few shot prompting. |
+| Context setting | General background information that will help focus the interaction | e.g. “...for an application that does XYZ”, “...for the application found at www.myapp.com”<br><br>Tip: Depending on your LLM and pricing tier, you may be able to upload files that are then used as context within the conversation. |
+| Examples | Specific examples that help to illustrate what you're looking for | e.g. “consider languages such as French, Italian, and Spanish”, “an example of a performance test is having 1000 users access the web site at the same time”<br><br>Terminology tip: Providing no examples is called zero shot prompting, giving one example is called one shot prompting, and providing a handful of examples is called few shot prompting. |
 | Style preferences | Specify behaviour and tone | e.g. “avoid technical language”, “use an informal tone” |
 | Format preferences | Desired structure of the output | e.g. “provide a 1-2 line summary followed by a bulleted list of the key points”, “response should be in valid json format” |
 | Controls or guard rails | Specify topics, phrases, etc that are prohibited | e.g. “do not include test cases that are related to invalid data”, “avoid any references to specific tools or libraries” |
