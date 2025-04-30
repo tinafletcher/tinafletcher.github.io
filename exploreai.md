@@ -80,7 +80,7 @@ Debrief:
 + Did the follow up prompts provide any noticeable improvements?
 + What other techniques could you use to iterate towards a better response?
 
-### Explore properties/characteristics of LLMs; group debrief
+### Explore characteristics of LLMs; group debrief
 
 Now, explore some properties/quirks/capabilities of LLMs; use your tester brain!
 + Continue varying the instructions and parameters
