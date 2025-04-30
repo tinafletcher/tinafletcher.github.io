@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guided Exploration for applying AI to assist with software quality tasks
+title: Guided Exploration - applying AI to assist with software quality tasks
 permalink: /exploreai/
 ---
 
