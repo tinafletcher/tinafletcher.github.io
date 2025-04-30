@@ -13,7 +13,7 @@ permalink: /exploreai/
 + Your goals
 + My goals
 
-### Official Takeaways
+### Desired Takeaways
 + Leave this session with at least one practical idea for how to start leveraging AI in your software quality tasks
 + Your imagination has been sparked with additional AI use cases to continue exploring after the session
 
