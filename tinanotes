@@ -1,0 +1,150 @@
+---
+layout: page
+title: Tina's Notes
+permalink: /tinanotes/
+---
+
+![Looking out over Dinosaur Provincial Park](../images/dinosaur.jpg)
+
+## (Tina's Notes) Guided Exploration: Applying AI to assist with software quality tasks
+
+### Introduction
+
+(5 min)
+
+Intro to speaker
++ Started my career in software quality; spent ~12 years doing and managing software testing
++ Moved into leadership of software engineering as a whole (including both development and testing); have managed various teams of various sizes working on a very wide variety of things for the last ~8 years
++ I’ve worked at 4 different companies in my career (BlackBerry, D2L, a D2L spin-out called SkillsWave, and now Primal, which is focused on building AI solutions for regulated industries such as legal and healthcare)
++ Lesser known fact about me: in the final year of my computer science degree, I did an undergraduate thesis project under a supervisor in the neuroscience department. During this project I coded a neural network that aimed to simulate a hypothesis that my supervisor had about how learning might occur in a specific part of the brain. We then used this neural network program to run experiments about learning and memory, with the goal of understanding whether the algorithm we were using might be functionally similar to how real neurons in the brain could store information.
++ I found this work extremely fascinating, and at the time debated whether to pursue a career in academia in this domain, but ultimately decided that I’d fare better in what I considered to be a more “real world”, practical career in industry. So, I accepted a full time job offer at BlackBerry. I remember saying at the time that I hoped to some day find a way to combine the study of neural networks and learning algorithms with a non-academic job. This was around 2006/07.
++ Fast forward to 2025, and we’re deeply into the age of LLMs and AI, and my early 20’s self would be thrilled to know that using machine learning algorithms in our everyday lives is most definitely a thing.
++ Oh, and just for fun, that supervisor I had for my undergrad thesis work? At the time, one of her advisors was Geoffrey Hinton, who won a Nobel prize in 2024, partially for the work he was doing at the time of my undergrad project.
++ Hopefully that gives you a sense of how it came to be that I’m here today to talk with you about how we can use AI to assist with software quality tasks
+
+(5 min)
+
+Initial survey / your goals
++ Anyone here because they are skeptical about how AI could actually help with testing tasks?
++ Anyone here because they’ve had success with using AI to help with testing tasks?
++ Anyone here being asked to test applications that are built using AI? (e.g. a chatbot)
+
+My goals
++ Not here to say you should use AI for everything
++ Not here here to say AI is coming for your job
++ Hoping you have a chance to evaluate for yourself what AI can do, can’t do, and might be able to do - especially as it relates to helping you become more efficient and creative in your software quality related work
+
+### Desired Takeaways
++ Leave this session with at least one practical idea for how to start leveraging AI in your software quality tasks
++ Your imagination has been sparked with additional AI use cases to continue exploring after the session
+
+(5 min)
+
+### Tasks and Tools
+
+What software quality tasks could potentially be augmented with AI?
++ Generating test case ideas
++ Creating synthetic test data
++ Writing code for automated test cases
++ Performing risk analysis
++ Improving bug reports
++ What else?
+
+*We’ll come back to these after going over a few logistics and prompting mechanics.*
+
+LLMs you could use today:
++ Sign up with a free account at <a href="https://www.huggingface.co">huggingface.co</a>; access to >1 million open source models
++ Use your Google account at <a href="https://gemini.google.com">gemini.google.com</a> to access the free tier of Gemini
++ Create a free account at <a href="https://www.claude.ai">claude.ai</a> to access the free tier of Claude
++ Try ChatGPT at <a href="https://www.chatgpt.com">chatgpt.com</a>; can also create a free account for access to additional features
++ Any other free or paid LLM you happen to have access to
+
+(5 min)
+
+### Prompting Techniques
+This is a very brief overview of some things you might want to include when writing a prompt. However, be aware that prompt engineering is an entire field of academic research, so there is a LOT more nuance to consider than what I've described here.
+
+NOTE: It's not mandatory to use all of these techniques in a single prompt. Sometimes, it’s easier to start simple and add parameters as needed.
+
+ANOTHER NOTE: LLM prompts are not all that different than giving clear, detailed instructions to another human about a task to do.
+
+| Technique | Description | Example usage |
+|---|---|---|
+| Role assignment | What perspective/persona you want the LLM to take on during your conversation | e.g. “You are an expert software tester”, “You are highly knowledgeable in security testing” |
+| Goal setting | What you want the outcome of the interaction to be | e.g. “Generate only the most critical test cases”, “Generate all the test cases you can think of” |
+| Context setting | General background information that will help focus the interaction | e.g. “...for an application that does XYZ”, “...for the application found at www.myapp.com”<br>Tip: Depending on your LLM and pricing tier, you may be able to upload files that are then used as context within the conversation. |
+| Examples | Specific examples that help to illustrate what you're looking for | e.g. “consider languages such as French, Italian, and Spanish”, “an example of a performance test is having 1000 users access the web site at the same time”<br>Terminology tip: Providing no examples is called zero shot prompting, giving one example is called one shot prompting, and providing a handful of examples is called few shot prompting. |
+| Style preferences | Specify behaviour and tone | e.g. “avoid technical language”, “use an informal tone” |
+| Format preferences | Desired structure of the output | e.g. “provide a 1-2 line summary followed by a bulleted list of the key points”, “response should be in valid json format” |
+| Controls or guard rails | Specify topics, phrases, etc that are prohibited | e.g. “do not include test cases that are related to invalid data”, “avoid any references to specific tools or libraries” |
+| Reasoning preferences | Encourage structured thinking, if applicable | e.g. “think step-by-step”, “show your reasoning/logic when presenting solutions” |
+| Final reinforcement | Repeat the key points or the overall goal of the interaction, especially if the prompt is long | e.g. “now provide the more detailed report - and remember, use only long-form paragraphs”, “the top 5 tests most likely to reveal important defects are:” |
+
+*Using the above components/parameters as a guide, here are some sample prompts for the software quality tasks we listed earlier.*
+
+### Sample Prompts
+
+| Task | Sample prompt |
+|---|---|
+| Generating test case ideas | “You are an expert software tester. Your task is to generate a list of the top 5 most useful test cases to execute, where the application under test is a basic login page. Do not include any load testing scenarios. Use a concise tone, and it’s ok to use technical language where applicable. Output the 5 test cases as an unordered list, then in a separate section explain your reasoning for including each of the test cases in the list. An example test case might be to verify successful login with valid credentials. The top 5 test cases for a basic login page are:” |
+| Creating synthetic test data | “You are knowledgeable about phone number formats used around the world. Your task is to generate a list of 25 potentially valid phone numbers that I could use when testing that my software application properly handles all possible variations of international phone numbers. Do not consider formats that incorporate an extension, such as in an office setting. Make sure to include some variations that have special characters such as dashes or brackets - for example, (519) 999-8888. For each phone number, provide a brief explanation of why it was included and what makes it unique or interesting compared to the others in the list. 25 potentially valid international phone numbers I could use while testing my software application are:” |
+| Writing code for automated test cases | “You are skilled at writing test cases for software applications using the automated test framework Playwright. Write the code for an automated test that will navigate to a specified URL, locate the search field, enter a search string, execute the search, and then confirm that at least one result appeared on the page. Prefer the use of code that is easier to read and understand rather than the most concise solution possible, and include lots of comments in the code to explain what is happening at each stage.” |
+| Performing risk analysis | “You are a member of a software development team that is about to start a project that involves refactoring a JavaScript code base to use Typescript. Your background is in software quality, and your task is to help the team identify risks in the project. What are some common issues that the team should be on the lookout for as they undertake this refactoring project? For example, are there specific classes of bugs that tend to be introduced when making the switch to Typescript? Using a concise tone, list 3 important risks that the team should consider developing mitigation plans for, along with some specific sample test cases that would help to identify potential bugs. Assume that non-technical things like tight timelines and insufficient resources are not significant risks for this project.” |
+| Improving bug reports | “You are a software tester who has just discovered an important product defect. You recently submitted the following bug report, but you feel it has not been receiving the attention it deserves and you suspect it’s because your bug report (while concise and easy to interpret) has not made the overall impact and required next steps clear enough. Rewrite the bug report to include more details that better convey the widespread nature of the issue, and the potential user and company impact if the issue is not resolved in a timely manner. Do not modify any of the core details or scope already expressed in the original report; focus on clearer communication only.<br><br>The original bug report is as follows.<br><br>Product: E-commerce Platform<br>Version: 2.0.1<br>Component: Checkout<br>Severity: High<br>Priority: Urgent<br>Reported By: Tina Fletcher<br>Date: 2025-04-30<br>Environment: Staging (Ontario, Canada)<br>Steps: Checkout with Ontario shipping address.<br>Expected: 13% HST applied.<br>Actual: 5% tax applied.<br>Impact: Incorrect sales tax calculation (undercharging).<br>Attachment: Screenshot of incorrect tax.<br>Note: Ontario tax rate is incorrectly 5% instead of 13% HST. Requires immediate fix.<br><br>Now provide the updated version that better describes the impact, as described above:” |
+
+(5 min)
+
+### Run a sample prompt; discuss initial impressions
+
+Run one or more of the sample prompts, using any LLM. (Can you identify the techniques being used within the prompts?)
+
+What do you think of the results?
++ Good? Bad? Incomplete?
++ How does it compare to what you might have come up with on your own?
+
+Send some follow up prompts to continue brainstorming/iterating towards an optimal response:
++ Ask the LLM if it can improve upon the response it provided (e.g. “what else...?”)
++ Ask the LLM to tweak a certain detail (e.g. “add/remove...”)
++ Ask the LLM to clarify something it mentioned in the response (e.g. “can you explain...”)
+
+Debrief:
++ Did the follow up prompts provide any noticeable improvements?
++ What other techniques could you use to iterate towards a better response?
+
+(10 min)
+
+### Explore characteristics of LLMs; group debrief
+
+Now, explore some properties/quirks/capabilities of LLMs; use your tester brain!
++ Continue varying the instructions and parameters
++ Send the exact same prompt to the same LLM, multiple times
++ Send the exact same prompt to two different LLMs
++ Remove one or more of the components of the prompt
++ Change the order of the prompt components
++ Change the formatting or syntax of the prompt
++ Try reducing one of the sample prompts down to only a very basic instruction
++ See what happens if you provide conflicting information within a prompt
++ Ask the LLM how confident it is about its response to your prompt
++ Ask the LLM for advice about how to improve your prompt (or to write a completely new prompt)
++ Ask an LLM to compare two different responses to the same prompt (AI-as-a-judge; pairwise evaluation)
++ Ask an LLM to rate a response on a scale that you define (AI-as-a-judge; pointwise evaluation)
++ ...
+
+Debrief: what interesting things did you observe?
++ Any techniques that seemed particularly effective or ineffective?
++ Anything that surprised you, in a good or bad way?
++ What other experiments would you do if you had more time?
+
+(5 min)
+
+### Conclusion; things to think about
+
+Did we achieve the desired takeaways?
++ Attendees leave the session with at least one practical idea for how to start leveraging AI in their software quality tasks
++ Attendees’ imaginations have been sparked with additional AI use cases to continue exploring in the future
+
+Things to think about
++ Security and privacy: Free tier of a model that normally costs money can mean you are paying with your data. Avoid including user data or company proprietary info in prompts. Double check which tools your company is ok with you using at work.
++ Like any tool, there are trade offs; it can be a huge help to kick start your thought process if you’re stuck, but it can also constrain your thinking if you haven’t thought through the question on your own at all yet
++ It’s a pretty cool time to be a tester. “Evaluation” of applications that use AI is a huge area of research right now, without many clear answers, techniques, or tools yet. We are generally uncertain about how to deal with the unprecedented complexity, autonomy, and non-determinism that exist in AI-based applications. There’s a unique opportunity for quality professionals to bring their unique perspective and skills to this area.
+
