@@ -28,10 +28,10 @@ What software quality tasks could potentially be augmented with AI?
 + What else?
 
 LLMs you could use today:
-+ Sign up with a free account at [huggingface.co](huggingface.co); access to >1 million open source models
-+ Use your Google account at [gemini.google.com](gemini.google.com) to access the free tier of Gemini
-+ Create a free account at [claude.ai](claude.ai) to access the free tier of Claude
-+ Try ChatGPT at [chatgpt.com](chatgpt.com); can also create a free account for access to additional features
++ Sign up with a free account at <a href="https://huggingface.co">huggingface.co</a>; access to >1 million open source models
++ Use your Google account at <a href="https://gemini.google.com">gemini.google.com</a> to access the free tier of Gemini
++ Create a free account at <a href="https://claude.ai">claude.ai</a> to access the free tier of Claude
++ Try ChatGPT at <a href="https://chatgpt.com">chatgpt.com</a>; can also create a free account for access to additional features
 + Any other free or paid LLM you happen to have access to
 
 ### Prompting Techniques
