@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tina's Notes
+title: Tina's Notes for Guided AI Exploration
 permalink: /tinanotes/
 ---
 
