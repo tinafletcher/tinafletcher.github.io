@@ -6,7 +6,7 @@ permalink: /tinanotes/
 
 ![Looking out over Dinosaur Provincial Park](../images/dinosaur.jpg)
 
-## (Tina's Notes) Guided Exploration: Applying AI to assist with software quality tasks
+## (Tina's Notes) Guided Exploration: Using AI to assist with software quality tasks
 
 ### Introduction
 
@@ -18,25 +18,29 @@ Intro to speaker
 + I’ve worked at 4 different companies in my career (BlackBerry, D2L, a D2L spin-out called SkillsWave, and now Primal, which is focused on building AI solutions for regulated industries such as legal and healthcare)
 + Lesser known fact about me: in the final year of my computer science degree, I did an undergraduate thesis project under a supervisor in the neuroscience department. During this project I coded a neural network that aimed to simulate a hypothesis that my supervisor had about how learning might occur in a specific part of the brain. We then used this neural network program to run experiments about learning and memory, with the goal of understanding whether the algorithm we were using might be functionally similar to how real neurons in the brain could store information.
 + I found this work extremely fascinating, and at the time debated whether to pursue a career in academia in this domain, but ultimately decided that I’d fare better in what I considered to be a more “real world”, practical career in industry. So, I accepted a full time job offer at BlackBerry. I remember saying at the time that I hoped to some day find a way to combine the study of neural networks and learning algorithms with a non-academic job. This was around 2006/07.
-+ Fast forward to 2025, and we’re deeply into the age of LLMs and AI, and my early 20’s self would be thrilled to know that using machine learning algorithms in our everyday lives is most definitely a thing.
++ Fast forward to 2025, and we’re deeply into the age of LLMs and AI, and my early 20’s self would be thrilled to know that using machine learning algorithms at work and in our everyday lives is most definitely a thing.
 + Oh, and just for fun, that supervisor I had for my undergrad thesis work? At the time, one of her advisors was Geoffrey Hinton, who won a Nobel prize in 2024, partially for the work he was doing at the time of my undergrad project.
 + Hopefully that gives you a sense of how it came to be that I’m here today to talk with you about how we can use AI to assist with software quality tasks
 
 (5 min)
 
+Inspiration for this session / my goals
++ Have seen lots of articles, talks, webinars about AI techniques/tools/pipelines lately that seem very "aspirational"; the average person, team, or company that's already busy juggling a million other things is realistically not going to be able to invest in building any of these things, especially if they don't have AI domain experts on staff
++ In fact, I suspect that many people haven't even been able to find time to experiment with the basics of AI... or maybe they tried a few things at some point, didn't get the results they were hoping for, and moved on with their busy lives
++ I suspect this because I was one of those people, before joining a company that was focused on building AI technology. I'd briefly played around with ChatGPT but found it very underwhelming, and honestly kind of wrote AI off as "over hyped" and a long way from being something I'd use on a regular basis.
++ I know now that there are two big reasons for being disappointed with AI at first: 1) I didn't know what I was doing, and how to effectively interact with AI tools, and 2) AI tools have seriously just improved by massive margins in the last year or so
++ In recent months I've learned that fixing that first reason is actually not that hard; I believe that with just a few key techniques and a little bit of practice you can be well on your way to becoming an effective AI user that's poised to take advantage of the latest advances in AI tools both today and into the future
++ So that's my goal for this session; I am hoping that today you'll have a chance to evaluate for yourself what AI can do, can’t do, and might be able to do in the future, and that you'll leave feeling more confident about using AI as a tool to improve your efficiency and creativity in your software quality related work.
+
 Initial survey / your goals
 + Anyone here because they are skeptical about how AI could actually help with testing tasks?
-+ Anyone here because they’ve had success with using AI to help with testing tasks?
++ Anyone here because they’ve had success with using AI to help with testing tasks, and want to do more with it?
 + Anyone here being asked to test applications that are built using AI? (e.g. a chatbot)
 
-My goals
-+ Not here to say you should use AI for everything
-+ Not here here to say AI is coming for your job
-+ Hoping you have a chance to evaluate for yourself what AI can do, can’t do, and might be able to do - especially as it relates to helping you become more efficient and creative in your software quality related work
 
 ### Desired Takeaways
-+ Leave this session with at least one practical idea for how to start leveraging AI in your software quality tasks
-+ Your imagination has been sparked with additional AI use cases to continue exploring after the session
++ Leave this session with at least one new practical idea for how to start leveraging AI in your software quality tasks
++ Your imagination has been sparked with additional AI use cases or experiments to continue exploring after the session
 
 (5 min)
 
@@ -126,7 +130,7 @@ Now, explore some properties/quirks/capabilities of LLMs; use your tester brain!
 + See what happens if you provide conflicting information within a prompt
 + Ask the LLM how confident it is about its response to your prompt
 + Ask the LLM for advice about how to improve your prompt (or to write a completely new prompt)
-+ Ask an LLM to compare two different responses to the same prompt (AI-as-a-judge; pairwise evaluation)
++ Ask an LLM to compare two different responses to the same prompt and state which one is "better" (AI-as-a-judge; pairwise evaluation)
 + Ask an LLM to rate a response on a scale that you define (AI-as-a-judge; pointwise evaluation)
 + ...
 
@@ -140,10 +144,11 @@ Debrief: what interesting things did you observe?
 ### Conclusion; things to think about
 
 Did we achieve the desired takeaways?
-+ Attendees leave the session with at least one practical idea for how to start leveraging AI in their software quality tasks
-+ Attendees’ imaginations have been sparked with additional AI use cases to continue exploring in the future
++ Attendees leave the session with at least one new practical idea for how to start leveraging AI in their software quality tasks
++ Attendees’ imaginations have been sparked with additional AI use cases or experiments to continue exploring in the future
 
 Things to think about
 + Security and privacy: Free tier of a model that normally costs money can mean you are paying with your data. Avoid including user data or company proprietary info in prompts. Double check which tools your company is ok with you using at work.
-+ Like any tool, there are trade offs; it can be a huge help to kick start your thought process if you’re stuck, but it can also constrain your thinking if you haven’t thought through the question on your own at all yet
++ Pick and choose where you can benefit the most from AI tools; sometimes, designing an effective prompt can take just as long as simply doing the task yourself, but in other situations, AI can save you hours of work or come up with solutions you never would have dreamed of
++ Asking an LLM can be a huge help to kick start your thought process if you’re really stuck, but it can also constrain your thinking if you haven’t thought through the question on your own at all yet. AI usually sounds extremely confident in its answers, which can make you feel like the information you've been given is fully accurate and complete. I'd suggest that often it's a good idea to think of AI as a partner or assistant, not a way to completely outsource or offload a task.
 + It’s a pretty cool time to be a tester. “Evaluation” of applications that use AI is a huge area of research right now, without many clear answers, techniques, or tools yet. We are generally uncertain about how to deal with the unprecedented complexity, autonomy, and non-determinism that exist in AI-based applications. There’s a unique opportunity for quality professionals to bring their unique perspective and skills to this area.
