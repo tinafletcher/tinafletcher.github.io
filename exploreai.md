@@ -8,12 +8,13 @@ permalink: /exploreai/
 
 ### Introduction
 + Intro to speaker
-+ Your goals
++ Inspiration for this session
 + My goals
++ Your goals
 
 ### Desired Takeaways
-+ Leave this session with at least one practical idea for how to start leveraging AI in your software quality tasks
-+ Your imagination has been sparked with additional AI use cases to continue exploring after the session
++ Leave this session with at least one new practical idea for how to start leveraging AI in your software quality tasks
++ Your imagination has been sparked with additional AI use cases or experiments to continue exploring after the session
 
 ### Tasks and Tools
 
@@ -23,6 +24,8 @@ What software quality tasks could potentially be augmented with AI?
 + Writing code for automated test cases
 + Performing risk analysis
 + Improving bug reports
++ Requirements clarification (attendee suggestion)
++ Improving communications about test results (attendee suggestion)
 + What else?
 
 LLMs you could use today:
@@ -91,7 +94,7 @@ Now, explore some properties/quirks/capabilities of LLMs; use your tester brain!
 + See what happens if you provide conflicting information within a prompt
 + Ask the LLM how confident it is about its response to your prompt
 + Ask the LLM for advice about how to improve your prompt (or to write a completely new prompt)
-+ Ask an LLM to compare two different responses to the same prompt (AI-as-a-judge; pairwise evaluation)
++ Ask an LLM to compare two different responses to the same prompt and state which one is "better" (AI-as-a-judge; pairwise evaluation)
 + Ask an LLM to rate a response on a scale that you define (AI-as-a-judge; pointwise evaluation)
 + ...
 
@@ -103,12 +106,13 @@ Debrief: what interesting things did you observe?
 ### Conclusion; things to think about
 
 Did we achieve the desired takeaways?
-+ Attendees leave the session with at least one practical idea for how to start leveraging AI in their software quality tasks
-+ Attendees’ imaginations have been sparked with additional AI use cases to continue exploring in the future
++ Attendees leave the session with at least one new practical idea for how to start leveraging AI in their software quality tasks
++ Attendees’ imaginations have been sparked with additional AI use cases or experiments to continue exploring in the future
 
 Things to think about
-+ Security and privacy
-+ Like any tool, there are trade offs
++ Security and privacy considerations
++ Pick and choose where you can benefit the most from AI tools
++ Do some initial brainstorming before you ask AI; avoid constraining your thinking
 + It’s a pretty cool time to be a tester; lots to explore related to evaluation of AI-based systems
 
 
