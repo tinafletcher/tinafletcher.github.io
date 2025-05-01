@@ -49,6 +49,8 @@ What software quality tasks could potentially be augmented with AI?
 + Writing code for automated test cases
 + Performing risk analysis
 + Improving bug reports
++ Requirements clarification (attendee suggestion)
++ Improving communications about test results (attendee suggestion)
 + What else?
 
 **We’ll come back to these after going over a few logistics and prompting mechanics.**
