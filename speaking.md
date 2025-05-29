@@ -6,8 +6,13 @@ permalink: /speaking/
 
 Here are some of the talks I've presented in the past.
 
+### Guided Exploration - Using AI to assist with software quality tasks
+![Photo of me presenting the Guided Exploration - Using AI to assist with software quality tasks session at a KWSQA event](/images/AI-presentation-photo.jpg)
++ <a href="https://www.tinafletcher.ca/exploreai/">Presentation outline</a>
++ Presented at: <a href="https://kwsqa.org/wednesday-april-30-2025-guided-exploration-applying-ai-to-assist-with-software-quality-tasks/">KWSQA KWality Talk in April 2025</a>, and D2L's internal Tester On-Site in May 2025
+
 ### Conference Speaking: Where Do I Even Start?
-![Photo of the first 2 graduates of the Conference Speaking: Where Do I Even Start? workshop in 2024"](/images/Career Growth first graduates.png)
+![Photo of the first 2 graduates of the Conference Speaking: Where Do I Even Start? workshop in 2024](/images/Career Growth first graduates.png)
 + Co-Presenter: Bailey Hanna
 + Presented at: <a href="https://www.linkedin.com/posts/tina-fletcher-5b99a21_tq2024-activity-7249604680790523905-JxX_">Targeting Quality 2024</a>
 
