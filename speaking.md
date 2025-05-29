@@ -22,6 +22,7 @@ Here are some of the talks I've presented in the past.
 + Presented at: Targeting Quality 2023, TASSQ monthly meetup in February 2024
 
 ### Standing Up for Standup Alternatives
+![Thumbnail image from the YouTube recording of the episode where I was a guest on Dude, Where's My Code?](/images/podcast-thumbnail.png)
 + Recording: [Episode 10 of Dude, Where's My Code? Podcast](https://www.youtube.com/watch?v=stY6pADhJ8w) (January 2023)
 <br>
 
