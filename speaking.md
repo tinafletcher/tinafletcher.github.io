@@ -4,7 +4,12 @@ title: Speaking
 permalink: /speaking/
 ---
 
-Here are some of the talks I've presented in the past.
+Here are some of the talks I've presented.
+
+### The Moving Target of Software Quality
+![Title slide for The Moving Target of Software Quality](/images/Moving Target Title.png)
++ Resources: ["Are you on target?" audit questions](../images/Moving Target - Resource Slides.pdf)
++ Presented at: TASSQ monthly meetup in May 2026, KWSQA KWality Talk in May 2026
 
 ### Guided Exploration - Using AI to assist with software quality tasks
 ![Photo of me presenting the Guided Exploration - Using AI to assist with software quality tasks session at a KWSQA event](/images/AI-presentation-photo.jpg)
